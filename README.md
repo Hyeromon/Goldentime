@@ -12,9 +12,9 @@
 <br>
 
 ### Skill
--Spring Boot
--JPA
--Open API
--MariaDB
--Thymeleaf
--Python
+- Spring Boot
+- JPA
+- Open API
+- MariaDB
+- Thymeleaf
+- Python
